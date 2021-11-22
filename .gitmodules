@@ -1,0 +1,9 @@
+[submodule "dep-t"]
+	path = dep-t
+	url = git@github.com:danidiaz/dep-t.git
+[submodule "dep-t-advice"]
+	path = dep-t-advice
+	url = git@github.com:danidiaz/dep-t-advice.git
+[submodule "dep-t-dynamic"]
+	path = dep-t-dynamic
+	url = git@github.com:danidiaz/dep-t-dynamic.git
