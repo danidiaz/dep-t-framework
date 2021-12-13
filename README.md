@@ -1,6 +1,6 @@
 # dep-t-framework
 
-Calling this a "framework" is perhaps too generous. 
+Calling this a "framework" is something of a stretch. 
 
 - **dep-t** The main package. Basic utilities for dependency injection using records-of-functions.
 - **dep-t-advice** Arity-generic function decorators, also function invocation helpers.
