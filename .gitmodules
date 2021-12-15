@@ -7,3 +7,6 @@
 [submodule "dep-t-dynamic"]
 	path = dep-t-dynamic
 	url = git@github.com:danidiaz/dep-t-dynamic.git
+[submodule "dep-t-value-sqlite"]
+	path = dep-t-value-sqlite
+	url = git@github.com:danidiaz/dep-t-value-sqlite.git
