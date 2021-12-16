@@ -7,3 +7,9 @@ Calling this a "framework" is something of a stretch.
 - **dep-t-dynamic** Dependency injection environments with dynamic fields. 
 - **dep-t-value-sqlite** Read resources from an SQLite database file. (UNDER CONSTRUCTION.)
 
+## Hackage versions
+
+    build-depends:
+        dep-t ^>= 0.6.1,
+        dep-t-advice ^>= 0.6.1,
+        dep-t-dynamic ^>= 1.0.0,
