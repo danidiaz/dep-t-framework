@@ -2,3 +2,4 @@ packages:
     dep-t
     dep-t-advice
     dep-t-dynamic
+    dep-t-value
